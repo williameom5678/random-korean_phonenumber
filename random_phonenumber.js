@@ -64,4 +64,15 @@ if(s == 2){
   return 식+"-"+국1+국2+국3+국4+"-"+전1+전2+전3+전4;
   }
 };
-//합수입니다.
+//함수입니다.
+
+/*사용예제
+response =(room, msg, sender, isGroupChat, replier, imageDB)=> {
+  if(msg == "전화번호"){
+  replier.reply(phone_number());
+  }
+};
+
+*/
+
+
